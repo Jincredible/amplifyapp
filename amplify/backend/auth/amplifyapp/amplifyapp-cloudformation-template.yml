@@ -150,7 +150,6 @@ Parameters:
   hostedUI:
     Type: String
             
-            
         
   authProviders:
     Type: CommaDelimitedList

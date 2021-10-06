@@ -1,6 +1,6 @@
 {
     "identityPoolName": "testAuthIdentityPool",
-    "allowUnauthenticatedIdentities": false,
+    "allowUnauthenticatedIdentities": true,
     "resourceNameTruncated": "amplif01eab51d",
     "userPoolName": "amplifyapp",
     "autoVerifiedAttributes": [
